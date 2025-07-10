@@ -5,3 +5,19 @@
   Diff Summary:
      docs/integrity.sha256.sig.4E27D37C358872BF | 0
      1 file changed, 0 insertions(+), 0 deletions(-)
+[2025-07-10T22:03:38Z] Radicle: RID=rad:z3FEj7rF8gZw9eFksCuiN43qjzrex, Peer ID=z6Mkw5s3ppo26C7y7tGK5MD8n2GqTHS582PPpeX5Xqbu2Mpz, Branch=master, Commit=89aa3ec
+  CLI: rad inspect rad:z3FEj7rF8gZw9eFksCuiN43qjzrex # View project details
+  CLI: git ls-tree -r --name-only HEAD # View file structure
+  Diff Summary:
+     .gitfield/canonical.meta.asc       | 16 +++++++++++
+     .gitfield/index.json.asc           | 16 +++++++++++
+     .gitfield/pushed.log               |  7 +++++
+     .well-known/gitfield.json.asc      | 16 +++++++++++
+     SockpuppetIndex.md                 | 58 ++++++++++++++++++++++++++++++++++++++
+     docs/.well-known/gitfield.json.asc | 16 +++++++++++
+     docs/canonical.meta.asc            | 16 +++++++++++
+     docs/gitfield.json.asc             | 16 +++++++++++
+     docs/index.json.asc                | 16 +++++++++++
+     docs/integrity.sha256.asc          | 16 +++++++++++
+     docs/repos.json.asc                | 16 +++++++++++
+     11 files changed, 209 insertions(+)
