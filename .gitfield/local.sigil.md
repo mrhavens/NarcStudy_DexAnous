@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/research/neutralizing-narcissism/joel-johnson/NarcStudy_DexAnous`
 - **Remote Label**: `local`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-07-10 17:11:37`
+- **Repo Created**: `2025-07-10 17:28:06`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-07-10 17:11:37`
-- **Last Commit SHA**: `2a4f2da2cf18f211a1c503f254b1a987fef0df9a`
-- **Last Commit Message**: `Copied /mnt/c/fieldcraft/research/neutralizing-narcissism/joel-johnson/NarcStudy_DexAnous/docs/GITFIELD.md.sig.4E27D37C358872BF to docs at 2025-07-10T22:01:34Z`
+- **This Commit Timestamp**: `2025-07-10 17:28:06`
+- **Last Commit SHA**: `23e492a43d27fe1fc169f689426e2945bc31cabc`
+- **Last Commit Message**: `Generated docs/integrity.sha256 at 2025-07-10T22:01:34Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Thu Jul 10 17:11:13 2025 -0500`
+- **Last Commit Date**: `Thu Jul 10 17:27:56 2025 -0500`
 - **This Commit URL**: `file:///home/mrhavens/git-local-repos/git-sigil.git`
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `48`
-- **Tracked Files**: `70`
+- **Total Commits**: `65`
+- **Tracked Files**: `76`
 - **Uncommitted Changes**: `Yes`
 - **Latest Tag**: `v0.1.0`
 
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 1 hour, 23 minutes`
+- **System Uptime**: `up 1 hour, 40 minutes`
 - **MAC Address**: `00:15:5d:e9:56:69`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
