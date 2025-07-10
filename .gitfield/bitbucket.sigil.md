@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/research/neutralizing-narcissism/joel-johnson/NarcStudy_DexAnous`
 - **Remote Label**: `bitbucket`
 - **Default Branch**: `master`
-- **This Commit Date**: `2025-07-10 17:23:04`
+- **This Commit Date**: `2025-07-10 17:31:20`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-07-10 17:23:04`
-- **Last Commit SHA**: `4239929a1db929dcd2574b884561f294bb2e5db0`
+- **This Commit Timestamp**: `2025-07-10 17:31:20`
+- **Last Commit SHA**: `b4a4c5c240a79712d4f7c4d5bcd87a0768813793`
 - **Last Commit Message**: `Post-GitLab sync at 2025-07-10T22:01:34Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Thu Jul 10 17:22:31 2025 -0500`
-- **This Commit URL**: [https://bitbucket.org/thefoldwithin/NarcStudy_DexAnous/commits/4239929a1db929dcd2574b884561f294bb2e5db0](https://bitbucket.org/thefoldwithin/NarcStudy_DexAnous/commits/4239929a1db929dcd2574b884561f294bb2e5db0)
+- **Last Commit Date**: `Thu Jul 10 17:31:08 2025 -0500`
+- **This Commit URL**: [https://bitbucket.org/thefoldwithin/NarcStudy_DexAnous/commits/b4a4c5c240a79712d4f7c4d5bcd87a0768813793](https://bitbucket.org/thefoldwithin/NarcStudy_DexAnous/commits/b4a4c5c240a79712d4f7c4d5bcd87a0768813793)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `58`
-- **Tracked Files**: `76`
+- **Total Commits**: `75`
+- **Tracked Files**: `77`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `v0.1.0`
 
@@ -52,7 +52,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 1 hour, 34 minutes`
+- **System Uptime**: `up 1 hour, 43 minutes`
 
 ---
 
