@@ -1,0 +1,105 @@
+﻿Rhetorical Patterns and Truth Distortion in Online Discourse: A Case Study of a Substack Comment
+Mark R. Havens
+Independent Researcher
+mark.r.havens@gmail.com
+Abstract
+Online platforms like Substack have become arenas for intellectual discourse, but they also host contentious exchanges that blur the line between critique and personal attack. This paper analyzes a single comment posted on a Substack article to investigate rhetorical patterns that undermine truth-seeking in digital communities. Through a mixed-method analysis combining linguistic pattern identification and rhetorical critique, we identify ad hominem attacks, unsubstantiated assertions, and emotional hyperbole as dominant strategies that suggest confabulation and self-deception. The study introduces a novel framework for assessing truth distortion in online discourse, contributing to the understanding of how rhetorical tactics shape perceptions of credibility and authority in self-publishing platforms. Findings suggest that such patterns reflect broader human tendencies toward polarization and emotional reasoning, with implications for fostering constructive dialogue in digital spaces.
+Keywords: Online discourse, rhetoric, truth distortion, confabulation, self-deception, Substack, social media, ad hominem, emotional reasoning
+________________
+
+
+1. Introduction
+The rise of self-publishing platforms like Substack has democratized intellectual discourse, enabling individuals to share analyses and engage with communities directly. However, these platforms also amplify contentious exchanges where rhetorical strategies can obscure truth-seeking in favor of persuasion or personal vendettas (boyd, 2017; Marwick & Lewis, 2017). This paper examines a single comment posted on February 14, 2025, in response to a Substack article titled Preliminary Case Study: Joel Johnson and the Tactics of Performative Intellectualism. The comment, authored by Dex Anous, critiques the article’s author, Mark Havens, with a highly critical and personal tone.
+The study addresses a gap in the literature on how rhetorical patterns in online discourse contribute to truth distortion, defined here as the deviation from evidence-based reasoning through unsubstantiated claims, emotional appeals, or logical fallacies (Tandoc et al., 2018). We propose a novel framework for analyzing truth distortion through linguistic and rhetorical cues, focusing on confabulation (the construction of narratives to fill knowledge gaps) and self-deception (unconscious bias in self-presentation) (Hirstein, 2005; von Hippel & Trivers, 2011). By analyzing the comment’s language, we aim to:
+1. Identify rhetorical patterns that undermine truth-seeking.
+2. Assess the presence of confabulation and self-deception.
+3. Explore implications for digital discourse and community dynamics.
+This work contributes to computer-supported cooperative work (CSCW) by examining how online platforms shape rhetorical strategies and their impact on truth perception, a critical issue in an era of polarized digital communication (Sunstein, 2017).
+________________
+
+
+2. Related Work
+2.1 Online Discourse and Rhetorical Strategies
+Online platforms facilitate diverse forms of communication, from collaborative knowledge-building to contentious debates (Kraut & Resnick, 2012). Rhetorical strategies, such as ad hominem attacks and emotional appeals, are common in digital spaces, often prioritizing persuasion over truth (Walton, 2008). Studies of social media discourse highlight how personal attacks and hyperbole can escalate conflicts and undermine constructive dialogue (Anderson et al., 2014). Substack, as a platform for long-form content, blends journalistic and social media dynamics, making it a rich context for studying rhetorical patterns (Gillespie, 2018).
+2.2 Truth Distortion, Confabulation, and Self-Deception
+Truth distortion in online discourse often manifests through misinformation, disinformation, or biased framing (Tandoc et al., 2018). Confabulation, the unconscious fabrication of narratives to explain unknown or uncertain information, is a cognitive bias observed in both clinical and non-clinical contexts (Hirstein, 2005). Self-deception, where individuals maintain beliefs despite contradictory evidence, further complicates truth-seeking by masking biases (von Hippel & Trivers, 2011). These phenomena are underexplored in self-publishing platforms, where individual authors wield significant narrative control.
+2.3 Polarization and Community Dynamics
+Polarization in online communities often leads to tribal dynamics, where group loyalty drives exclusionary behaviors like ostracism or public shaming (Sunstein, 2017). Such dynamics are evident in accusations of community expulsion, as seen in the analyzed comment, which align with studies of social sanctioning in digital spaces (Marwick & boyd, 2011). Understanding these patterns is crucial for designing platforms that foster constructive discourse.
+________________
+
+
+3. Methodology
+3.1 Data Source
+The data consists of a single comment posted on February 14, 2025, by Dex Anous on a Substack article authored by Mark Havens. The comment, preserved in a PDF titled Gmail - New comment on Preliminary Case Study_ Joel Johnson and the Tactics of Performative Intellectualism.pdf, is a 548-word critique accusing Havens of predatory behavior, fraud, and manipulation. The comment was extracted via OCR and verified for fidelity to the original text.
+3.2 Analytical Framework
+We employed a mixed-method approach combining:
+1. Linguistic Pattern Analysis: Identification of rhetorical devices (e.g., ad hominem, hyperbole) and linguistic markers (e.g., errors, repetition) using qualitative coding (Saldaña, 2015).
+2. Rhetorical Critique: Evaluation of argumentative structure, evidence use, and logical consistency based on Walton’s (2008) framework for fallacy analysis.
+3. Truth Distortion Assessment: Application of a novel framework assessing fidelity to truth through four criteria: clarity, evidence-based reasoning, logical consistency, and openness to counterarguments (adapted from Tandoc et al., 2018).
+3.3 Novelty of Approach
+The study introduces a framework for detecting truth distortion in self-published discourse, focusing on confabulation and self-deception as underexplored mechanisms. By analyzing a single comment, we offer a micro-level case study that complements macro-level studies of online discourse (e.g., Anderson et al., 2014), providing granular insights into rhetorical tactics.
+________________
+
+
+4. Findings
+4.1 Rhetorical Patterns
+The comment exhibits several rhetorical patterns that undermine truth-seeking:
+* Ad Hominem Attacks: The author labels Havens a “bully with a keyboard,” “desperate, bitter man,” and “documented bad actor.” These attacks target Havens’ character rather than his arguments, aligning with Walton’s (2008) definition of ad hominem fallacies.
+* Categorical Assertions Without Evidence: Claims like “This entire Substack is nothing more than a self-indulgent hit list” and “Your obsessive need to diagnose others… is nothing short of fraud” lack supporting evidence, relying on assertion over substantiation.
+* Emotional Hyperbole: Phrases such as “crumbling empire of nonsense” and “fragile ego” amplify emotional impact but sacrifice precision, a tactic noted in polarized discourse (Anderson et al., 2014).
+* Repetition for Emphasis: The repeated assertion “You are not a psychologist. You are not a researcher…” reinforces the critique but adds no new evidence, a rhetorical device to persuade through redundancy.
+* Structured Narrative: The author outlines a six-step “script” Havens allegedly follows (e.g., “Bait someone into a discussion,” “Subtly twist their words”). This narrative is rhetorically compelling but unsupported by examples, suggesting confabulation (Hirstein, 2005).
+* Linguistic Errors: Errors like “characterer,” “smearinng,” and “predicatable” indicate hasty composition, potentially reflecting emotional impulsivity over reasoned deliberation.
+4.2 Truth Distortion Assessment
+Using the proposed framework, the comment’s fidelity to truth is low:
+* Clarity: The comment is clear in its intent to discredit Havens but vague in substantiating claims (e.g., “permanently expelled from the Dallas-Fort Worth Makers community” lacks details).
+* Evidence-Based Reasoning: The absence of specific examples or references undermines claims, aligning with Tandoc et al.’s (2018) criteria for truth distortion.
+* Logical Consistency: The comment is consistent in its narrative but relies on fallacies (e.g., ad hominem, strawman) rather than logical arguments.
+* Openness to Counterarguments: The absolutist tone dismisses any validity in Havens’ work, indicating a lack of openness characteristic of self-deception (von Hippel & Trivers, 2011).
+4.3 Confabulation and Self-Deception
+The comment shows signs of confabulation through the construction of a detailed “script” without evidence, suggesting the author fills knowledge gaps with a narrative that fits their perception (Hirstein, 2005). Self-deception is evident in the irony of accusing Havens of gaslighting while employing a one-sided narrative that mirrors the criticized behavior, a pattern of projection noted in von Hippel and Trivers (2011).
+4.4 Broader Patterns
+The comment reflects broader human tendencies in online discourse:
+* Polarization: The confrontational tone aligns with polarized communication patterns (Sunstein, 2017).
+* Tribal Dynamics: References to Havens’ expulsion suggest social sanctioning, a common tactic in digital communities (Marwick & boyd, 2011).
+* Emotional Reasoning: The reliance on hyperbole and emotional language prioritizes feeling over evidence, a cognitive bias in contentious discourse (Anderson et al., 2014).
+________________
+
+
+5. Discussion
+5.1 Implications for Truth-Seeking
+The comment’s rhetorical patterns—ad hominem attacks, unsubstantiated assertions, and emotional hyperbole—undermine truth-seeking by prioritizing persuasion over evidence. This aligns with prior work on how emotional appeals in online discourse can distort perceptions of credibility (Kraut & Resnick, 2012). The proposed framework for truth distortion offers a tool for identifying such patterns, with applications in moderating online platforms.
+5.2 Novelty and Contribution
+This study’s novelty lies in its micro-level analysis of a single comment, revealing how rhetorical tactics operate at the granular level to distort truth. The focus on confabulation and self-deception in self-published discourse extends existing theories of cognitive bias (Hirstein, 2005; von Hippel & Trivers, 2011) to new platforms like Substack. By integrating linguistic and rhetorical analysis, the study bridges CSCW and communication studies, offering insights into designing platforms that mitigate truth distortion.
+5.3 Limitations
+The analysis is limited to a single comment, lacking external context to verify claims (e.g., Havens’ expulsion). Future work could incorporate multi-comment datasets or platform metadata to validate findings. Additionally, the subjective nature of rhetorical critique requires triangulation with other methods, such as user interviews or computational sentiment analysis.
+________________
+
+
+6. Conclusion
+This case study of a Substack comment reveals how rhetorical patterns—ad hominem attacks, unsubstantiated assertions, and emotional hyperbole—contribute to truth distortion in online discourse. The presence of confabulation and self-deception underscores the challenges of fostering truth-seeking in self-publishing platforms. The proposed framework for assessing truth distortion offers a novel tool for analyzing digital rhetoric, with implications for platform design and community moderation. Future research should explore how these patterns manifest across platforms and how interventions can promote constructive dialogue.
+________________
+
+
+References
+Anderson, A. A., Brossard, D., Scheufele, D. A., Xenos, M. A., & Ladwig, P. (2014). The “nasty effect”: Online incivility and risk perceptions of emerging technologies. Journal of Computer-Mediated Communication, 19(3), 373-387. https://doi.org/10.1111/jcc4.12009
+boyd, d. (2017). Hacking the attention economy. Data & Society. https://www.datasociety.net/pubs/oh/DataAndSociety_HackingTheAttentionEconomy.pdf
+Gillespie, T. (2018). Custodians of the Internet: Platforms, content moderation, and the hidden decisions that shape social media. Yale University Press.
+Hirstein, W. (2005). Brain fiction: Self-deception and the riddle of confabulation. MIT Press.
+Kraut, R. E., & Resnick, P. (2012). Building successful online communities: Evidence-based social design. MIT Press.
+Marwick, A. E., & boyd, d. (2011). I tweet honestly, I tweet passionately: Twitter users, context collapse, and the imagined audience. New Media & Society, 13(1), 114-133. https://doi.org/10.1177/1461444810365313
+Marwick, A., & Lewis, R. (2017). Media manipulation and disinformation online. Data & Society. https://datasociety.net/pubs/oh/DataAndSociety_MediaManipulationAndDisinformationOnline.pdf
+Saldaña, J. (2015). The coding manual for qualitative researchers. Sage Publications.
+Sunstein, C. R. (2017). #Republic: Divided democracy in the age of social media. Princeton University Press.
+Tandoc, E. C., Lim, Z. W., & Ling, R. (2018). Defining “fake news”: A typology of scholarly definitions. Digital Journalism, 6(2), 137-153. https://doi.org/10.1080/21670811.2017.1360143
+von Hippel, W., & Trivers, R. (2011). The evolution and psychology of self-deception. Behavioral and Brain Sciences, 34(1), 1-16. https://doi.org/10.1017/S0140525X10001354
+Walton, D. (2008). Informal logic: A pragmatic approach. Cambridge University Press.
+________________
+
+
+Submission Details
+Conference: ACM Conference on Computer-Supported Cooperative Work and Social Computing (CSCW) 2026
+Rationale: CSCW is a premier venue for studying social dynamics and rhetorical strategies in digital platforms, aligning with this paper’s focus on Substack discourse and truth distortion. Its interdisciplinary scope bridges computer science, communication studies, and social psychology, making it ideal for this work.
+Novelty and Rigor:
+* Novelty: The paper introduces a framework for truth distortion in self-published discourse, focusing on confabulation and self-deception, which are underexplored in Substack contexts. The micro-level case study complements macro-level studies, offering granular insights.
+* Rigor: The mixed-method approach, grounded in established theories (e.g., Walton, 2008; Hirstein, 2005), ensures analytical depth. The use of a single comment as a case study is justified by its rich rhetorical content, with limitations acknowledged to maintain transparency.
