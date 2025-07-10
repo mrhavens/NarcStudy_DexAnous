@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/research/neutralizing-narcissism/joel-johnson/NarcStudy_DexAnous`
 - **Remote Label**: `gitlab`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-07-10 17:05:25`
+- **Repo Created**: `2025-07-10 17:22:14`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-07-10 17:05:25`
-- **This Commit SHA**: `eb0f90724d9881722ab234f8d1dd0010523a8588`
+- **This Commit Timestamp**: `2025-07-10 17:22:14`
+- **This Commit SHA**: `f431acc6d3340840192c1a001988eca7b184abd7`
 - **Last Commit Message**: `Post-Codeberg sync at 2025-07-10T22:01:34Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Thu Jul 10 17:04:58 2025 -0500`
-- **This Commit URL**: [https://gitlab.com/null/NarcStudy_DexAnous/-/commit/eb0f90724d9881722ab234f8d1dd0010523a8588](https://gitlab.com/null/NarcStudy_DexAnous/-/commit/eb0f90724d9881722ab234f8d1dd0010523a8588)
+- **Last Commit Date**: `Thu Jul 10 17:21:37 2025 -0500`
+- **This Commit URL**: [https://gitlab.com/null/NarcStudy_DexAnous/-/commit/f431acc6d3340840192c1a001988eca7b184abd7](https://gitlab.com/null/NarcStudy_DexAnous/-/commit/f431acc6d3340840192c1a001988eca7b184abd7)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `36`
-- **Tracked Files**: `63`
+- **Total Commits**: `56`
+- **Tracked Files**: `76`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `v0.1.0`
 
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 1 hour, 16 minutes`
+- **System Uptime**: `up 1 hour, 34 minutes`
 - **MAC Address**: `00:15:5d:e9:56:69`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
