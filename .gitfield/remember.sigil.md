@@ -6,25 +6,25 @@
 - **Local Repo Path**: `/mnt/c/fieldcraft/research/neutralizing-narcissism/joel-johnson/NarcStudy_DexAnous`
 - **Remote Label**: `remember`
 - **Default Branch**: `master`
-- **Repo Created**: `2025-07-10 17:20:31`
+- **Repo Created**: `2025-07-10 17:29:09`
 
 ---
 
 ## 📦 Commit Info
 
-- **This Commit Timestamp**: `2025-07-10 17:20:31`
-- **Last Commit SHA**: `940eeef06ae9939b46f474ca33f04d4377452872`
+- **This Commit Timestamp**: `2025-07-10 17:29:09`
+- **Last Commit SHA**: `601429fab51cd960be3897b96dc0f86be2d7fab3`
 - **Last Commit Message**: `Post-Radicle sync at 2025-07-10T22:01:34Z`
 - **Last Commit Author**: `Mark Randall Havens <mark.r.havens@gmail.com>`
-- **Last Commit Date**: `Thu Jul 10 17:20:26 2025 -0500`
-- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/NarcStudy_DexAnous/commit/940eeef06ae9939b46f474ca33f04d4377452872](https://remember.thefoldwithin.earth/mrhavens/NarcStudy_DexAnous/commit/940eeef06ae9939b46f474ca33f04d4377452872)
+- **Last Commit Date**: `Thu Jul 10 17:29:05 2025 -0500`
+- **This Commit URL**: [https://remember.thefoldwithin.earth/mrhavens/NarcStudy_DexAnous/commit/601429fab51cd960be3897b96dc0f86be2d7fab3](https://remember.thefoldwithin.earth/mrhavens/NarcStudy_DexAnous/commit/601429fab51cd960be3897b96dc0f86be2d7fab3)
 
 ---
 
 ## 📊 Repo Status
 
-- **Total Commits**: `52`
-- **Tracked Files**: `76`
+- **Total Commits**: `69`
+- **Tracked Files**: `77`
 - **Uncommitted Changes**: `No`
 - **Latest Tag**: `v0.1.0`
 
@@ -48,7 +48,7 @@
 - **Running in Docker**: `No`
 - **Running in WSL**: `Yes`
 - **Virtual Machine**: `wsl`
-- **System Uptime**: `up 1 hour, 32 minutes`
+- **System Uptime**: `up 1 hour, 41 minutes`
 - **MAC Address**: `00:15:5d:e9:56:69`
 - **Local IP**: `172.18.207.124`
 - **CPU Model**: `AMD A6-3420M APU with Radeon(tm) HD Graphics`
